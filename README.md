@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... 🤔
 - ⚡ Fun fact: ... I love playing FiFA 🎮
 
-### Github Stats
+<!--### Github Stats -->
 
-![stephen-jrstat](https://github-readme-stats.vercel.app/api?username=stephen-jr&count_private=true&show_icons=true&theme=radical)
+![stephen-jrstat](https://github-readme-stats.vercel.app/api?username=stephen-jr&count_private=true&hide=prs,issues,stars&show_icons=true&theme=radical)
 
-
-### Top Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=STEPHEN-JR&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=STEPHEN-JR&show_icons=true&theme=radical&layout=compact)
