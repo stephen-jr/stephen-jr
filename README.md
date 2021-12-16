@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on ... Several PHP and Javasccript Projects
+- 🔭 I’m currently working on ... Several PHP, Python and Javasccript(Node) Projects
 - 🌱 I’m currently learning ... Laravel
 - 👯 I’m looking to collaborate on ... All things Python Backend
 - 🤔 I’m looking for help with ... AWS😫
