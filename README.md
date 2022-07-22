@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 ![stephen-jrstat](https://github-readme-stats.vercel.app/api?username=stephen-jr&include_all_commits=true&count_private=true&hide=prs,issues,stars&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephen-jr&show_icons=true&theme=radical&layout=compact)
+
+![Code Wars](https://www.codewars.com/users/stephen-jr/badges/large)
