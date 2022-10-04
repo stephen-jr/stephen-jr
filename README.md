@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Life😫
 - 💬 Ask me about ... 🤔Hmmm <b>(*strokes chin infinitely)</b>
 - 📫 How to reach me: ... [📧](mailto:stephen24jnr@gmail.com)
-- ⚡ Fun fact: ... Surprisinly eloquent for a shy guy, oh and em .... Ball is LIFE 🎮😎
+- ⚡ Fun fact: ... Surprisinly eloquent for a technical fellow, oh and um .... Ball is LIFE 🎮😎
 
 <!--### Github Stats -->
 
