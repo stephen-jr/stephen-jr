@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... Surprisinly eloquent for a technical fellow, oh and um .... Ball is LIFE 🎮😎
 
 <!-- Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=stephen-jr)]
+![GitHub Streak](https://streak-stats.demolab.com?user=stephen-jr&theme=omni&hide_border=true)
 
 <!--### Github Stats -->
 
