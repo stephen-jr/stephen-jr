@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [📧](mailto:stephen24jnr@gmail.com)
 - ⚡ Fun fact: ... Surprisinly eloquent for a technical fellow, oh and um .... Ball is LIFE 🎮😎
 
+<!-- Streak -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=stephen-jr)]
+
 <!--### Github Stats -->
 
 ![stephen-jrstat](https://github-readme-stats.vercel.app/api?username=stephen-jr&include_all_commits=true&count_private=true&hide=issues,stars&show_icons=true&theme=radical)
