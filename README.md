@@ -24,6 +24,4 @@ Here are some ideas to get you started:
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephen-jr&show_icons=true&theme=radical&layout=compact) -->
 
-<h4> Code Wars Badge</h4>
-
 ![Code Wars](https://www.codewars.com/users/stephen-jr/badges/large)
