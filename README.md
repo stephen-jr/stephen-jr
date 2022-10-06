@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <!-- ![stephen-jrstat](https://github-readme-stats.vercel.app/api?username=stephen-jr&count_private=true&hide=issues,stars&show_icons=true&theme=radical) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephen-jr&show_icons=true&theme=radical&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephen-jr&show_icons=true&theme=radical&layout=compact) -->
 
 <h4> Code Wars Badge</h4>
 
